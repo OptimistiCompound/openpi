@@ -15,7 +15,7 @@ from openpi.shared import array_typing as at
 
 logger = logging.getLogger("openpi")
 
-# this is a test
+
 def make_attn_mask(input_mask, mask_ar):
     """Adapted from big_vision.
 
